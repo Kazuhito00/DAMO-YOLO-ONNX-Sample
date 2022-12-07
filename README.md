@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/37477845/206065452-46720772-c657-48c0-
 
 # Requirement 
 * opencv-python 4.5.5.64 or later
-* onnxruntime-gpu 1.12.0 or later
+* onnxruntime 1.12.0 or later
 
 # Demo
 デモの実行方法は以下です。
