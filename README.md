@@ -44,7 +44,7 @@ NMSの閾値<br>
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-YOLOX-ONNX-TFLite-Sample is under [Apache-2.0 License](LICENSE).
+DAMO-YOLO-ONNX-Sample is under [Apache-2.0 License](LICENSE).
 
 # License(Movie)
 サンプル動画は[NHKクリエイティブ・ライブラリー](https://www.nhk.or.jp/archives/creative/)の[ブラジル・サンパウロ 車で渋滞した通り](https://www2.nhk.or.jp/archives/creative/material/view.cgi?m=D0002161417_00000)を使用しています。
